@@ -42,6 +42,7 @@ MTMConvert["GAMMA(x)*GAMMA(y)/GAMMA(y+x)"]
 MapToMath is covered by the MIT license.
 
 Copyright 2020 Vladyslav Shtabovenko
+
 Copyright 2020 Wolfram Research, Inc  
 
 Permission is hereby granted, free of charge, to any person obtaining a 
